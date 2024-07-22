@@ -1,1 +1,6 @@
 This currency converter application is built using Java Servlets and JSP (JavaServer Pages). The application allows users to convert an amount from one currency to another using real-time exchange rates fetched from an external API. The HTML form (index.jsp) provides a simple user interface for inputting the amount and selecting the currencies to convert from and to. The CurrencyConverter servlet class handles the form submission. It processes the input data, fetches the current exchange rate from the CurrencyFreaks API, performs the conversion, and forwards the result to a JSP page for display. The Result.jsp page displays the conversion result and provides a link to perform another conversion
+![Screenshot (58)](https://github.com/user-attachments/assets/1debfdfb-eb43-425d-8210-a0f1f6963efa)
+![Screenshot (59)](https://github.com/user-attachments/assets/4c326881-9d8e-49ba-8476-aee37be0a2f3)
+![Screenshot (62)](https://github.com/user-attachments/assets/30e99fca-24b8-4dca-b7c2-9ad9e7073a86)
+![Screenshot (63)](https://github.com/user-attachments/assets/4865dad3-4062-4fa5-8a91-5e8a412248dd)
+![Screenshot (64)](https://github.com/user-attachments/assets/e07624c1-f322-45b7-a03a-a5cc788520cb)
